@@ -222,7 +222,7 @@ function App() {
           </p>
 
           <h1>
-            AI Expense Dashboard
+             Expense Management Dashboard
           </h1>
 
           <p className="subtitle">
