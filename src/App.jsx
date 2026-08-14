@@ -5,7 +5,7 @@ import ExpenseForm from "./components/ExpenseForm";
 import ExpenseList from "./components/ExpenseList";
 import ExpenseChart from "./components/ExpenseChart";
 import FilterBar from "./components/FilterBar";
-import AIInsights from "./components/AIInsights";
+
 import { useExpenses } from "./context/ExpenseContext";
 
 import "./App.css";
@@ -248,7 +248,7 @@ function App() {
 
         </div>
 
-        <AIInsights />
+       
 
 <FilterBar
   selectedCategory={selectedCategory}
